@@ -73,7 +73,7 @@ NGO/인도적 지원용 비살상 장비
 🏷 7. 프로젝트명 및 의미
 루미 (LUMI)
 
-Lumière (빛) + Lethal Unavailable Modular Instrument
+Lumière (빛) + Low-impact Utility Modular Incapacitator 
 
 무력과 평화 사이의 빛과 같은 도구
 
